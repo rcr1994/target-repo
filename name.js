@@ -10,3 +10,4 @@ const city = 'New York';
 
 const country = 'USA';
 const zipCode = '10001';
+const person = 'John Doe';
